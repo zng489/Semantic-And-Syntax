@@ -1,6 +1,4 @@
 # semantic-and-syntax
 
-<img src=“the list[] problem.png”>
-
-
+## The list semantic problem
 ![Screenshot](the_list[]_problem.png)
